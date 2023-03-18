@@ -2,6 +2,7 @@
 This project will focus on predicting heart disease with the help of neural networks based on different attributes of patients.
 <br>
 <br>
+<b>Methodologies:</b> pandas, numpy, sklearn
 
 
 <h2>Dataset</h2>
